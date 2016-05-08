@@ -1,0 +1,404 @@
+{
+  "name": "discord-fronend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@reduxjs/toolkit": "^1.4.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "firebase": "^7.23.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-scripts": "3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
+update on Wed May  6 00:41:59 TST 2026
+update on Wed May  6 00:42:00 TST 2026
+update on Wed May  6 00:42:01 TST 2026
+update on Wed May  6 00:42:04 TST 2026
+update on Wed May  6 00:42:04 TST 2026
+update on Wed May  6 00:42:05 TST 2026
+update on Wed May  6 00:42:06 TST 2026
+update on Wed May  6 00:42:07 TST 2026
+update on Wed May  6 00:42:10 TST 2026
+update on Wed May  6 00:42:14 TST 2026
+update on Wed May  6 00:42:15 TST 2026
+update on Wed May  6 00:42:17 TST 2026
+update on Wed May  6 00:42:19 TST 2026
+update on Wed May  6 00:42:22 TST 2026
+update on Wed May  6 00:42:22 TST 2026
+update on Wed May  6 00:42:24 TST 2026
+update on Wed May  6 00:42:29 TST 2026
+update on Wed May  6 00:42:31 TST 2026
+update on Wed May  6 00:42:31 TST 2026
+update on Wed May  6 00:42:32 TST 2026
+update on Wed May  6 00:42:33 TST 2026
+update on Wed May  6 00:42:34 TST 2026
+update on Wed May  6 00:42:35 TST 2026
+update on Wed May  6 00:42:36 TST 2026
+update on Wed May  6 00:42:37 TST 2026
+update on Wed May  6 00:42:37 TST 2026
+update on Wed May  6 00:42:41 TST 2026
+update on Wed May  6 00:42:42 TST 2026
+update on Wed May  6 00:42:44 TST 2026
+update on Wed May  6 00:42:46 TST 2026
+update on Wed May  6 00:42:47 TST 2026
+update on Wed May  6 00:42:49 TST 2026
+update on Wed May  6 00:42:50 TST 2026
+update on Wed May  6 00:42:54 TST 2026
+update on Wed May  6 00:42:55 TST 2026
+update on Wed May  6 00:42:56 TST 2026
+update on Wed May  6 00:42:56 TST 2026
+update on Wed May  6 00:42:57 TST 2026
+update on Wed May  6 00:42:58 TST 2026
+update on Wed May  6 00:42:58 TST 2026
+update on Wed May  6 00:42:58 TST 2026
+update on Wed May  6 00:43:00 TST 2026
+update on Wed May  6 00:43:00 TST 2026
+update on Wed May  6 00:43:03 TST 2026
+update on Wed May  6 00:43:04 TST 2026
+update on Wed May  6 00:43:06 TST 2026
+update on Wed May  6 00:43:06 TST 2026
+update on Wed May  6 00:43:07 TST 2026
+update on Wed May  6 00:43:13 TST 2026
+update on Wed May  6 00:43:15 TST 2026
+update on Wed May  6 00:43:15 TST 2026
+update on Wed May  6 00:43:16 TST 2026
+update on Wed May  6 00:43:17 TST 2026
+update on Wed May  6 00:43:17 TST 2026
+update on Wed May  6 00:43:18 TST 2026
+update on Wed May  6 00:43:18 TST 2026
+update on Wed May  6 00:43:21 TST 2026
+update on Wed May  6 00:43:23 TST 2026
+update on Wed May  6 00:43:24 TST 2026
+update on Wed May  6 00:43:25 TST 2026
+update on Wed May  6 00:43:26 TST 2026
+update on Wed May  6 00:43:26 TST 2026
+update on Wed May  6 00:43:28 TST 2026
+update on Wed May  6 00:43:31 TST 2026
+update on Wed May  6 00:43:31 TST 2026
+update on Wed May  6 00:43:32 TST 2026
+update on Wed May  6 00:43:32 TST 2026
+update on Wed May  6 00:43:34 TST 2026
+update on Wed May  6 00:43:35 TST 2026
+update on Wed May  6 00:43:37 TST 2026
+update on Wed May  6 00:43:38 TST 2026
+update on Wed May  6 00:43:41 TST 2026
+update on Wed May  6 00:43:42 TST 2026
+update on Wed May  6 00:43:42 TST 2026
+update on Wed May  6 00:43:47 TST 2026
+update on Wed May  6 00:43:48 TST 2026
+update on Wed May  6 00:43:48 TST 2026
+update on Wed May  6 00:43:49 TST 2026
+update on Wed May  6 00:43:49 TST 2026
+update on Wed May  6 00:43:51 TST 2026
+update on Wed May  6 00:43:54 TST 2026
+update on Wed May  6 00:43:54 TST 2026
+update on Wed May  6 00:43:56 TST 2026
+update on Wed May  6 00:43:59 TST 2026
+update on Wed May  6 00:44:00 TST 2026
+update on Wed May  6 00:44:01 TST 2026
+update on Wed May  6 00:44:01 TST 2026
+update on Wed May  6 00:44:02 TST 2026
+update on Wed May  6 00:44:03 TST 2026
+update on Wed May  6 00:44:05 TST 2026
+update on Wed May  6 00:44:05 TST 2026
+update on Wed May  6 00:44:07 TST 2026
+update on Wed May  6 00:44:07 TST 2026
+update on Wed May  6 00:44:07 TST 2026
+update on Wed May  6 00:44:09 TST 2026
+update on Wed May  6 00:44:09 TST 2026
+update on Wed May  6 00:44:10 TST 2026
+update on Wed May  6 00:44:10 TST 2026
+update on Wed May  6 00:44:12 TST 2026
+update on Wed May  6 00:44:13 TST 2026
+update on Wed May  6 00:44:14 TST 2026
+update on Wed May  6 00:44:14 TST 2026
+update on Wed May  6 00:44:14 TST 2026
+update on Wed May  6 00:44:16 TST 2026
+update on Wed May  6 00:44:16 TST 2026
+update on Wed May  6 00:44:17 TST 2026
+update on Wed May  6 00:44:18 TST 2026
+update on Wed May  6 00:44:21 TST 2026
+update on Wed May  6 00:44:24 TST 2026
+update on Wed May  6 00:44:25 TST 2026
+update on Wed May  6 00:44:26 TST 2026
+update on Wed May  6 00:44:27 TST 2026
+update on Wed May  6 00:44:28 TST 2026
+update on Wed May  6 00:44:29 TST 2026
+update on Wed May  6 00:44:33 TST 2026
+update on Wed May  6 00:44:34 TST 2026
+update on Wed May  6 00:44:35 TST 2026
+update on Wed May  6 00:44:36 TST 2026
+update on Wed May  6 00:44:42 TST 2026
+update on Wed May  6 00:44:42 TST 2026
+update on Wed May  6 00:44:43 TST 2026
+update on Wed May  6 00:44:44 TST 2026
+update on Wed May  6 00:44:46 TST 2026
+update on Wed May  6 00:44:48 TST 2026
+update on Wed May  6 00:44:49 TST 2026
+update on Wed May  6 00:44:49 TST 2026
+update on Wed May  6 00:44:51 TST 2026
+update on Wed May  6 00:44:51 TST 2026
+update on Wed May  6 00:44:52 TST 2026
+update on Wed May  6 00:44:56 TST 2026
+update on Wed May  6 00:44:58 TST 2026
+update on Wed May  6 00:44:59 TST 2026
+update on Wed May  6 00:45:05 TST 2026
+update on Wed May  6 00:45:07 TST 2026
+update on Wed May  6 00:45:11 TST 2026
+update on Wed May  6 00:45:12 TST 2026
+update on Wed May  6 00:45:13 TST 2026
+update on Wed May  6 00:45:15 TST 2026
+update on Wed May  6 00:45:19 TST 2026
+update on Wed May  6 00:45:19 TST 2026
+update on Wed May  6 00:45:20 TST 2026
+update on Wed May  6 00:45:21 TST 2026
+update on Wed May  6 00:45:23 TST 2026
+update on Wed May  6 00:45:27 TST 2026
+update on Wed May  6 00:45:29 TST 2026
+update on Wed May  6 00:45:29 TST 2026
+update on Wed May  6 00:45:30 TST 2026
+update on Wed May  6 00:45:32 TST 2026
+update on Wed May  6 00:45:33 TST 2026
+update on Wed May  6 00:45:34 TST 2026
+update on Wed May  6 00:45:34 TST 2026
+update on Wed May  6 00:45:38 TST 2026
+update on Wed May  6 00:45:38 TST 2026
+update on Wed May  6 00:45:40 TST 2026
+update on Wed May  6 00:45:41 TST 2026
+update on Wed May  6 00:45:42 TST 2026
+update on Wed May  6 00:45:43 TST 2026
+update on Wed May  6 00:45:48 TST 2026
+update on Wed May  6 00:45:50 TST 2026
+update on Wed May  6 00:45:53 TST 2026
+update on Wed May  6 00:45:56 TST 2026
+update on Wed May  6 00:45:57 TST 2026
+update on Wed May  6 00:45:58 TST 2026
+update on Wed May  6 00:45:59 TST 2026
+update on Wed May  6 00:46:00 TST 2026
+update on Wed May  6 00:46:05 TST 2026
+update on Wed May  6 00:46:05 TST 2026
+update on Wed May  6 00:46:06 TST 2026
+update on Wed May  6 00:46:07 TST 2026
+update on Wed May  6 00:46:08 TST 2026
+update on Wed May  6 00:46:08 TST 2026
+update on Wed May  6 00:46:08 TST 2026
+update on Wed May  6 00:46:09 TST 2026
+update on Wed May  6 00:46:12 TST 2026
+update on Wed May  6 00:46:13 TST 2026
+update on Wed May  6 00:46:15 TST 2026
+update on Wed May  6 00:46:18 TST 2026
+update on Wed May  6 00:46:18 TST 2026
+update on Wed May  6 00:46:22 TST 2026
+update on Wed May  6 00:46:26 TST 2026
+update on Wed May  6 00:46:29 TST 2026
+update on Wed May  6 00:46:30 TST 2026
+update on Wed May  6 00:46:31 TST 2026
+update on Wed May  6 00:46:34 TST 2026
+update on Wed May  6 00:46:34 TST 2026
+update on Wed May  6 00:46:36 TST 2026
+update on Wed May  6 00:46:39 TST 2026
+update on Wed May  6 00:46:40 TST 2026
+update on Wed May  6 00:46:42 TST 2026
+update on Wed May  6 00:46:44 TST 2026
+update on Wed May  6 00:46:44 TST 2026
+update on Wed May  6 00:46:45 TST 2026
+update on Wed May  6 00:46:49 TST 2026
+update on Wed May  6 00:46:50 TST 2026
+update on Wed May  6 00:46:51 TST 2026
+update on Wed May  6 00:46:53 TST 2026
+update on Wed May  6 00:46:53 TST 2026
+update on Wed May  6 00:46:54 TST 2026
+update on Wed May  6 00:46:56 TST 2026
+update on Wed May  6 00:46:56 TST 2026
+update on Wed May  6 00:46:59 TST 2026
+update on Wed May  6 00:46:59 TST 2026
+update on Wed May  6 00:47:01 TST 2026
+update on Wed May  6 00:47:02 TST 2026
+update on Wed May  6 00:47:03 TST 2026
+update on Wed May  6 00:47:04 TST 2026
+update on Wed May  6 00:47:05 TST 2026
+update on Wed May  6 00:47:06 TST 2026
+update on Wed May  6 00:47:06 TST 2026
+update on Wed May  6 00:47:07 TST 2026
+update on Wed May  6 00:47:07 TST 2026
+update on Wed May  6 00:47:09 TST 2026
+update on Wed May  6 00:47:10 TST 2026
+update on Wed May  6 00:47:10 TST 2026
+update on Wed May  6 00:47:14 TST 2026
+update on Wed May  6 00:47:14 TST 2026
+update on Wed May  6 00:47:16 TST 2026
+update on Wed May  6 00:47:17 TST 2026
+update on Wed May  6 00:47:22 TST 2026
+update on Wed May  6 00:47:23 TST 2026
+update on Wed May  6 00:47:25 TST 2026
+update on Wed May  6 00:47:27 TST 2026
+update on Wed May  6 00:47:28 TST 2026
+update on Wed May  6 00:47:28 TST 2026
+update on Wed May  6 00:47:28 TST 2026
+update on Wed May  6 00:47:33 TST 2026
+update on Wed May  6 00:47:34 TST 2026
+update on Wed May  6 00:47:35 TST 2026
+update on Wed May  6 00:47:35 TST 2026
+update on Wed May  6 00:47:36 TST 2026
+update on Wed May  6 00:47:37 TST 2026
+update on Wed May  6 00:47:40 TST 2026
+update on Wed May  6 00:47:40 TST 2026
+update on Wed May  6 00:47:41 TST 2026
+update on Wed May  6 00:47:41 TST 2026
+update on Wed May  6 00:47:43 TST 2026
+update on Wed May  6 00:47:48 TST 2026
+update on Wed May  6 00:47:48 TST 2026
+update on Wed May  6 00:47:48 TST 2026
+update on Wed May  6 00:47:50 TST 2026
+update on Wed May  6 00:47:52 TST 2026
+update on Wed May  6 00:47:53 TST 2026
+update on Wed May  6 00:47:53 TST 2026
+update on Wed May  6 00:47:55 TST 2026
+update on Wed May  6 00:47:56 TST 2026
+update on Wed May  6 00:47:56 TST 2026
+update on Wed May  6 00:47:57 TST 2026
+update on Wed May  6 00:47:58 TST 2026
+update on Wed May  6 00:47:58 TST 2026
+update on Wed May  6 00:47:59 TST 2026
+update on Wed May  6 00:48:00 TST 2026
+update on Wed May  6 00:48:01 TST 2026
+update on Wed May  6 00:48:01 TST 2026
+update on Wed May  6 00:48:03 TST 2026
+update on Wed May  6 00:48:06 TST 2026
+update on Wed May  6 00:48:08 TST 2026
+update on Wed May  6 00:48:09 TST 2026
+update on Wed May  6 00:48:10 TST 2026
+update on Wed May  6 00:48:12 TST 2026
+update on Wed May  6 00:48:13 TST 2026
+update on Wed May  6 00:48:14 TST 2026
+update on Wed May  6 00:48:16 TST 2026
+update on Wed May  6 00:48:18 TST 2026
+update on Wed May  6 00:48:20 TST 2026
+update on Wed May  6 00:48:20 TST 2026
+update on Wed May  6 00:48:23 TST 2026
+update on Wed May  6 00:48:25 TST 2026
+update on Wed May  6 00:48:26 TST 2026
+update on Wed May  6 00:48:27 TST 2026
+update on Wed May  6 00:48:30 TST 2026
+update on Wed May  6 00:48:33 TST 2026
+update on Wed May  6 00:48:35 TST 2026
+update on Wed May  6 00:48:35 TST 2026
+update on Wed May  6 00:48:36 TST 2026
+update on Wed May  6 00:48:37 TST 2026
+update on Wed May  6 00:48:37 TST 2026
+update on Wed May  6 00:48:38 TST 2026
+update on Wed May  6 00:48:39 TST 2026
+update on Wed May  6 00:48:40 TST 2026
+update on Wed May  6 00:48:40 TST 2026
+update on Wed May  6 00:48:41 TST 2026
+update on Wed May  6 00:48:41 TST 2026
+update on Wed May  6 00:48:46 TST 2026
+update on Wed May  6 00:48:48 TST 2026
+update on Wed May  6 00:48:50 TST 2026
+update on Wed May  6 00:48:51 TST 2026
+update on Wed May  6 00:48:52 TST 2026
+update on Wed May  6 00:48:53 TST 2026
+update on Wed May  6 00:48:53 TST 2026
+update on Wed May  6 00:48:54 TST 2026
+update on Wed May  6 00:48:54 TST 2026
+update on Wed May  6 00:48:55 TST 2026
+update on Wed May  6 00:48:55 TST 2026
+update on Wed May  6 00:48:56 TST 2026
+update on Wed May  6 00:48:56 TST 2026
+update on Wed May  6 00:48:57 TST 2026
+update on Wed May  6 00:48:59 TST 2026
+update on Wed May  6 00:48:59 TST 2026
+update on Wed May  6 00:48:59 TST 2026
+update on Wed May  6 00:49:00 TST 2026
+update on Wed May  6 00:49:00 TST 2026
+update on Wed May  6 00:49:02 TST 2026
+update on Wed May  6 00:49:06 TST 2026
+update on Wed May  6 00:49:10 TST 2026
+update on Wed May  6 00:49:10 TST 2026
+update on Wed May  6 00:49:12 TST 2026
+update on Wed May  6 00:49:13 TST 2026
+update on Wed May  6 00:49:13 TST 2026
+update on Wed May  6 00:49:15 TST 2026
+update on Wed May  6 00:49:17 TST 2026
+update on Wed May  6 00:49:17 TST 2026
+update on Wed May  6 00:49:18 TST 2026
+update on Wed May  6 00:49:19 TST 2026
+update on Wed May  6 00:49:21 TST 2026
+update on Wed May  6 00:49:25 TST 2026
+update on Wed May  6 00:49:27 TST 2026
+update on Wed May  6 00:49:29 TST 2026
+update on Wed May  6 00:49:29 TST 2026
+update on Wed May  6 00:49:30 TST 2026
+update on Wed May  6 00:49:31 TST 2026
+update on Wed May  6 00:49:32 TST 2026
+update on Wed May  6 00:49:34 TST 2026
+update on Wed May  6 00:49:36 TST 2026
+update on Wed May  6 00:49:36 TST 2026
+update on Wed May  6 00:49:37 TST 2026
+update on Wed May  6 00:49:40 TST 2026
+update on Wed May  6 00:49:43 TST 2026
+update on Wed May  6 00:49:44 TST 2026
+update on Wed May  6 00:49:45 TST 2026
+update on Wed May  6 00:49:46 TST 2026
+update on Wed May  6 00:49:46 TST 2026
+update on Wed May  6 00:49:47 TST 2026
+update on Wed May  6 00:49:48 TST 2026
+update on Wed May  6 00:49:49 TST 2026
+update on Wed May  6 00:49:49 TST 2026
+update on Wed May  6 00:49:50 TST 2026
+update on Wed May  6 00:49:50 TST 2026
+update on Wed May  6 00:49:51 TST 2026
+update on Wed May  6 00:49:53 TST 2026
+update on Wed May  6 00:49:54 TST 2026
+update on Wed May  6 00:50:01 TST 2026
+update on Wed May  6 00:50:02 TST 2026
+update on Wed May  6 00:50:04 TST 2026
+update on Wed May  6 00:50:05 TST 2026
+update on Wed May  6 00:50:06 TST 2026
+update on Wed May  6 00:50:08 TST 2026
+update on Wed May  6 00:50:10 TST 2026
+update on Wed May  6 00:50:15 TST 2026
+update on Wed May  6 00:50:17 TST 2026
+update on Wed May  6 00:50:18 TST 2026
+update on Wed May  6 00:50:21 TST 2026
+update on Wed May  6 00:50:23 TST 2026
+update on Wed May  6 00:50:25 TST 2026
+update on Wed May  6 00:50:29 TST 2026
+update on Wed May  6 00:50:31 TST 2026
+update on Wed May  6 00:50:35 TST 2026
+update on Wed May  6 00:50:36 TST 2026
+update on Wed May  6 00:50:37 TST 2026
+update on Wed May  6 00:50:38 TST 2026
+update on Wed May  6 00:50:39 TST 2026
+update on Wed May  6 00:50:40 TST 2026
+update on Wed May  6 00:50:47 TST 2026
+update on Wed May  6 00:50:47 TST 2026
+update on Wed May  6 00:50:48 TST 2026
+update on Wed May  6 00:50:55 TST 2026
